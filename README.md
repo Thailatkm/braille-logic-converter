@@ -14,7 +14,7 @@ Tecnologias
 Objetivo: Acessibilidade para pessoas com deficiência visual.
 
 
-## Racocínio 
+## Raciocínio
 Cada caractere ASCII tem um número (de 0 a 127). Quando ele entra no sistema, é transformado em binário (8 bits), mas é utilizado somente os 6 últimos bits que são os mais importantes para montar o padrão Braille.
 
 ## Como funciona a conversão
